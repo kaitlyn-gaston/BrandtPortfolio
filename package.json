@@ -1,0 +1,16 @@
+{
+  "name": "brandt portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.4.3",
+    "vite-plugin-glsl": "^1.6.1",
+    "vite-plugin-restart": "^0.4.2"
+  }
+}
